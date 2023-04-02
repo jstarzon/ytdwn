@@ -1,4 +1,4 @@
-## YouTube MP3 Downloader - YTDWN
+## YouTube MP3/MP4 Downloader - YTDWN
 
 - Single MP3
 - Playlist support
